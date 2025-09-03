@@ -2,7 +2,7 @@
 
 Este projeto é uma solução para o case técnico proposto pela Secretaria de Inteligência Artificial do Estado do Piauí. O objetivo é criar um dashboard simplificado para monitorar notícias sobre "Inteligência Artificial no Piauí", realizando análise de sentimento e identificando temas recorrentes.
 
-**[>> Link para o Dashboard Funcional <<](https://marcio-robert.github.io/case_sia_pi/)**
+**[>> Link para o Dashboard Funcional <<](https://marcio-casesiapi.streamlit.app/)**
 
 ![Screenshot do Dashboard](dashboard-screenshot.png)
 
