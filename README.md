@@ -26,7 +26,7 @@ Este projeto é uma solução para o case técnico proposto pela Secretaria de I
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/Marcio-Robert/case_sia_pi.git](https://github.com/Marcio-Robert/case_sia_pi.git)
+    git clone [https://marcio-casesiapi.streamlit.app/](https://marcio-casesiapi.streamlit.app/)
     cd case_sia_pi
     ```
 
